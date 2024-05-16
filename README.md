@@ -11,7 +11,7 @@
 <h2>👨‍💻 Automation Scripts:</h2>
 
 - <b>Python SQL Script</b>
-  - [Daily output file Script](https://github.com/Ethernet13/COMPTIA-Security-)
+  - [Daily output file Script](https://github.com/Ethernet13/Python_SQL_QueryScript)
 
 
 <h2>👨‍💻 Certification:</h2>
