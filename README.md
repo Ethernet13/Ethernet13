@@ -5,7 +5,7 @@
 - <b>Port Scanner</b>
   - [scanning ports in Python](https://github.com/Ethernet13/PortScannerScript)
 - <b>Scanning remote host</b>
-  - [Enter a remote host to scan in Python](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Enter a remote host to scan in Python](https://github.com/Ethernet13/RemoteHostScanner) <b>
 
 
 <h2>👨‍💻 Certification:</h2>
