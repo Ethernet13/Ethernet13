@@ -12,6 +12,12 @@
 
 - <b>Python SQL Script</b>
   - [Daily output file Script](https://github.com/Ethernet13/Python_SQL_QueryScript)
+ 
+
+<h2>👨‍💻 Architecture Diagrams:</h2>
+
+- <b>Remote Access</b>
+  - [Topology_350_701_CCNP SCOR](https://github.com/Ethernet13/Python_SQL_QueryScript)
 
 
 <h2>👨‍💻 Certification:</h2>
