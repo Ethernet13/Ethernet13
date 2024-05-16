@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Certification:</h2>
 
-- <b>Port Scanner</b>
+- <b>COMPTIA Security +</b>
   - [scanning in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
