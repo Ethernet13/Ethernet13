@@ -11,7 +11,7 @@
 <h2>👨‍💻 Certification:</h2>
 
 - <b>COMPTIA Security +</b>
-  - [scanning in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Certificate](https://github.com/Ethernet13/COMPTIA-Security-)
 
 
 
