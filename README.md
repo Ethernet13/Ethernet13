@@ -8,10 +8,20 @@
   - [Enter a remote host to scan in Python](https://github.com/Ethernet13/RemoteHostScanner) <b>
 
 
+<h2>👨‍💻 Automation Scripts:</h2>
+
+- <b>Python SQL Script</b>
+  - [Daily output file Script](https://github.com/Ethernet13/COMPTIA-Security-)
+
+
 <h2>👨‍💻 Certification:</h2>
 
 - <b>COMPTIA Security +</b>
   - [Certificate](https://github.com/Ethernet13/COMPTIA-Security-)
+ 
+
+
+
 
 
 
